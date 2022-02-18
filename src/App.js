@@ -66,7 +66,7 @@ export default class App extends Component {
     return (
       <div>
         <Container fluid>
-        <Row>
+        <Row> 
           <SidebarComponent changeCategory = {this.changeCategory} />
           <MainComponent menus = {menus} />
           <CheckoutComponent />

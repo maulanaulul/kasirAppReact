@@ -11,7 +11,6 @@ export default class SidebarComponent extends Component {
     }
 
     return (
-
         <>
           {/* <!-- Sidebar --> */}
           <div className="col-12 col-md-1 main-sidebar d-flex flex-column">
